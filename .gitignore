@@ -1,0 +1,26 @@
+# Maven
+target/
+*.jar
+*.war
+*.class
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Spring Boot - archivos sensibles
+src/main/resources/application.properties
+src/main/resources/application-prod.properties
+
+# Variables de entorno
+.env
+*.env
+
+# Logs
+*.log
+logs/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
