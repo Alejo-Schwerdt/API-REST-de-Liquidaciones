@@ -1,6 +1,6 @@
 # API Liquidaciones - Sistema Transportista
 
-API REST complementaria a la [API de Operaciones](https://github.com/Alejo-Schwerdt/API-REST-Transportista-Operaciones), desarrollada con Spring Boot. Gestiona el proceso de liquidación de pagos a camioneros, aplicando retenciones, descuentos y registrando los pagos realizados.
+API REST complementaria a la [API de Operaciones](https://github.com/Alejo-Schwerdt/API-REST-Transportista), desarrollada con Spring Boot. Gestiona el proceso de liquidación de pagos a camioneros, aplicando retenciones, descuentos y registrando los pagos realizados.
 
 ## Relación con la API de Operaciones
 
